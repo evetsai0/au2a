@@ -1,3 +1,3 @@
 Hi, there
 
-![](https://leetcard.jacoblin.cool/AU2A?theme=unicorn&ext=heatmap)
+![](https://leetcard.jacoblin.cool/AU2A?theme=nord&ext=heatmap)
