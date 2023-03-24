@@ -71,8 +71,8 @@ Department of Computer Science and Artifical Intelligence, National PingTung Uni
 Lego
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=au2a&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=au2a&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=au2a&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"  height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=au2a&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="150px">
 
 ## 📊 LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/au2a?theme=nord&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/au2a?theme=nord&ext=heatmap"  height="200px">
