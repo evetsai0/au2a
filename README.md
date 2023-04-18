@@ -8,7 +8,7 @@
 
 ## 🏫 Education
 * 112/9～  
-Institute of Network Engineering, National Yang Ming Chiao Tung University
+Highspeed Network Lab, National Yang Ming Chiao Tung University
 * 108/9～112/2  
 Department of Computer Science and Artifical Intelligence, National PingTung University
 
