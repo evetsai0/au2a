@@ -1,7 +1,8 @@
 ## 💫 About Me:
 🔭 I’m currently working on 
-* Hakka ASR Website
-* Fine-Tune Whisper For Hakka
+* Reinforcement Learning
+* IoT Devices and Platforms
+* Topics in Metaverse
 
 ## 🏫 Education
 * 112/9～  
