@@ -11,7 +11,7 @@ Highspeed Network Lab, National Yang Ming Chiao Tung University
 Department of Computer Science, National PingTung University
 
 ## 💻 Tech Stack
-* C/C++, C#, Swift, Python, JavaScript, Html5
+* C/C++, C#, Python, JavaScript, Html5
 * Arduino, Nvidia Jetson Nano, RaspberryPI, BananaPI
 * Lego EV3, VEXv5
 
